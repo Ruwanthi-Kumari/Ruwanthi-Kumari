@@ -1,5 +1,16 @@
-<h1 align="center">Hii 👋, I'm Ruwanthi Kumari</h1>
-<h3 align="center">BSc(Hons) in Statistics & Operations Research</h3>
+# Hii, 👋 I'm Ruwanthi Kumari
+
+**BSc(Hons) in Statistics & Operations Research**
+
+---
+
+## 👩‍🎓 About Me
+
+- 🎓 Final year undergraduate  
+- 🧑‍💻 Skilled in data analysis  
+
+---
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruwanthi-kumari&label=Profile%20views&color=0e75b6&style=flat" alt="ruwanthi-kumari" /> </p>
