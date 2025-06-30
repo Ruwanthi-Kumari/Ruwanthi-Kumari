@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif" width="300px" align="right" alt="Coding Girl GIF">
+
 # Hii, 👋 I'm Ruwanthi Kumari
 
 **BSc(Hons) in Statistics & Operations Research**
@@ -6,8 +8,10 @@
 
 ## 👩‍🎓 About Me
 
-- 🎓 Final year undergraduate  
+- 🎓 Final year undergraduate with a passion for Data Science  
 - 🧑‍💻 Skilled in data analysis  
+- 📊 Experienced with Power BI & Excel
+
 
 ---
 
